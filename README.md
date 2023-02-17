@@ -1,24 +1,22 @@
-# pokemon-game
+# Who is that Pokemon
 
-## Project setup
-```
-npm install
-```
+## Utility
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Game where you can guess 'Who is that Pokemon', CSS to hide the image, Vue directives, consumption of apis (POKE-API).
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Technologies:
 
-### Run your unit tests
-```
-npm run test:unit
-```
+- Vue
+- Option API
+- CSS
+- NPM
+- HTML5
+- JavaScript
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## App language
+
+Spanish
+
+<br/>
+
+_You can check this project <a href="https://vue-pokemon-h4cker.netlify.app" target="_blank">here</a>_
